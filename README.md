@@ -1,3 +1,3 @@
 # Projeto-Hallowen
 
-  Criei esse projeto para como umm desafio para o programa edutech.
+  Criei esse projeto como um desafio para o programa edutech.
